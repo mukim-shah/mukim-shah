@@ -21,7 +21,7 @@
 
 ---
 
-## `> whoami`
+## 👨‍💻 About Me
 
 I'm **Mukim Shah**, an AI-focused developer from Ahmedabad, India. I build backend services, AI agents, and workflow automations that connect APIs, data, and everyday business processes.
 
@@ -53,21 +53,39 @@ I'm **Mukim Shah**, an AI-focused developer from Ahmedabad, India. I build backe
 
 ---
 
-## `> featured-projects`
+
+## 🚀 Featured Projects
 
 <div align="center">
-
-<a href="https://github.com/mukim-shah/customer-support-ai-agent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mukim-shah&repo=customer-support-ai-agent&theme=github_dark&hide_border=true&bg_color=050816&title_color=FF465D&icon_color=58A6FF" alt="Customer Support AI Agent" /></a>
-
-<a href="https://github.com/mukim-shah/smart-ticket-automation-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mukim-shah&repo=smart-ticket-automation-system&theme=github_dark&hide_border=true&bg_color=050816&title_color=FF465D&icon_color=58A6FF" alt="Smart Ticket Automation System" /></a>
-
-<a href="https://github.com/mukim-shah/ai-wedding-invitation-generator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mukim-shah&repo=ai-wedding-invitation-generator&theme=github_dark&hide_border=true&bg_color=050816&title_color=FF465D&icon_color=58A6FF" alt="AI Wedding Invitation Generator" /></a>
-
-<a href="https://github.com/mukim-shah/flyrank-backend-ai-internship"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mukim-shah&repo=flyrank-backend-ai-internship&theme=github_dark&hide_border=true&bg_color=050816&title_color=FF465D&icon_color=58A6FF" alt="FlyRank Backend AI Internship" /></a>
-
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/mukim-shah/customer-support-ai-agent">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mukim-shah&repo=customer-support-ai-agent&theme=github_dark&hide_border=true&bg_color=050816&title_color=FF465D&icon_color=58A6FF" width="100%" alt="Customer Support AI Agent" />
+</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/mukim-shah/smart-ticket-automation-system">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mukim-shah&repo=smart-ticket-automation-system&theme=github_dark&hide_border=true&bg_color=050816&title_color=FF465D&icon_color=58A6FF" width="100%" alt="Smart Ticket Automation System" />
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/mukim-shah/ai-wedding-invitation-generator">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mukim-shah&repo=ai-wedding-invitation-generator&theme=github_dark&hide_border=true&bg_color=050816&title_color=FF465D&icon_color=58A6FF" width="100%" alt="AI Wedding Invitation Generator" />
+</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/mukim-shah/flyrank-backend-ai-internship">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mukim-shah&repo=flyrank-backend-ai-internship&theme=github_dark&hide_border=true&bg_color=050816&title_color=FF465D&icon_color=58A6FF" width="100%" alt="FlyRank Backend AI Internship" />
+</a>
+</td>
+</tr>
+</table>
 </div>
 
-### More projects
+### More Projects
 
 - [Website Data Scraping Agent](https://github.com/mukim-shah/website-data-scraping-agent)
 - [WhatsApp Food Ordering AI Agent](https://github.com/mukim-shah/whatsapp-food-ordering-ai-agent)
