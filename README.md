@@ -9,7 +9,7 @@
 <p>
   <a href="https://github.com/mukim-shah"><img src="https://img.shields.io/badge/GitHub-mukim--shah-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/mukim-shah-377825334/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://quickautomate.in"><img src="https://img.shields.io/badge/Quick%20Automate-AI%20%26%20Automation-D71920?style=for-the-badge&logo=火&logoColor=white" alt="Quick Automate" /></a>
+   <a href="https://quickautomate.in"><img src="https://img.shields.io/badge/Quick%20Automate-AI%20%26%20Automation-D71920?style=for-the-badge" alt="Quick Automate" /></a>
 </p>
 
 </div>
