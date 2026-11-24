@@ -44,8 +44,8 @@ I'm **Mukim Shah**, an AI-focused developer from Ahmedabad, India. I build backe
 
 <br />
 
-<img src="https://img.shields.io/badge/n8n-WORKFLOW%20AUTOMATION-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-<img src="https://img.shields.io/badge/OpenAI-LLM%20INTEGRATIONS-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+<img src="https://img.shields.io/badge/n8n-Workflow%20Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n Workflow Automation" />
+<img src="https://img.shields.io/badge/OpenAI-LLM%20Integrations-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI LLM Integrations" />
 <img src="https://img.shields.io/badge/Gemini-AI%20INTEGRATIONS-4285F4?style=for-the-badge" alt="Gemini" />
 <img src="https://img.shields.io/badge/REST-API%20INTEGRATIONS-1769AA?style=for-the-badge" alt="REST APIs" />
 
