@@ -36,7 +36,7 @@ I'm **Mukim Shah**, an AI-focused developer from Ahmedabad, India. I build backe
 
 ---
 
-## `> tech-stack`
+## ` tech-stack`
 
 <div align="center">
 
